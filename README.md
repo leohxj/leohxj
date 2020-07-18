@@ -1,6 +1,6 @@
 <h3>👋  I'm Leo Hui.</h3>
 
-
+> Keep learning, keep training, keep getting smarter.
 
 <p>
   <a href="https://twitter.com/leohxj">Twitter</a> •
